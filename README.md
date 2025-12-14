@@ -117,7 +117,7 @@
             `Data: ${data}\n` +
             `Horário: ${hora}`;
 
-        const telefoneStudio = "5543984198020";
+        const telefoneStudio = "5543984772247";
 
         const url = 
           `https://api.whatsapp.com/send?phone=${telefoneStudio}&text=${encodeURIComponent(mensagem)}`;
